@@ -1,0 +1,6 @@
+{
+  "name": "com.cqtd.packagebuilder",
+  "displayName": "Package Builder",
+  "version": "1.0.1",
+  "description": "Simple editor tool to create package.json file easily."
+}
